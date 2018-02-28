@@ -1,3 +1,8 @@
 module.exports = function check(str, bracketsConfig) {
-  // your solution
+ var arr= str.split(' ');
+ var a= true;
+
+ 
+
+return a;
 }
